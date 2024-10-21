@@ -1,15 +1,30 @@
 # Project Proposal
-Me and Jai decided to each search for 3 data sets each and come back together to collectively pick a data set that would be the best fit for us. 
-Jai's Data sets - Bus operators, council CCTV cameras and Student Accomodation
-Anas's Data sets - Tourism, Bus stops and Student Accomodation
-We both went away to look for 3 data sets each we both collectively chose student accomodation as our data set because we both agreed that it was a topic that we can agree on.
+stage 1 - choosing a data type:
+Jai's list:
+1 - Council CCTV cameras
+2 - Bus operator by service 
+3 - Student accomidation
+
+
+
+Anas's list:
+student accomidation - just a map. can created as a normal web app
+tourist information - just  a map, but last updated in 2011 (outdated)
+Bus stops 
+
+Final: Student accomidation. - Anas and i both agreed upon Student Accomidation as we both found that Bristol Open Data's data was outdated and last updated in february 2024. Students usually look for accomidation in august before their course begins.
+
+ideas: 
+- location of local grocery stores and restruants, 
+- daily advertisment of local events - happy hours, quiz, comedie and kareokee
+- access to public transport 
+- crime hotspots
+
+
 ## Business Case
-Problem statement - This web app aims to simplify the process of finding and securing housing for students that are looking for universities and provide a user-friendly website which connects students to possible accomodations in their area.
-Benefits - The benefits of this web app would be that students can easily search for housing options based of their budget, location and preference.
-Options - Direct communication could be one of the perks of using the web app as we plan to have useful links that connect the student to the university on possible accomodation inquiries.
-Costs - 
-Risks - Some risks we may come across could be availability issues because popular listins may be already taken or may find it hard securing their preferred accomodation if they do not act fast. Another risk maybe that our webiste may not cover all areas comprehensively, which may lead to limited options in certain areas for students.
+
 ### Problem statement
+the project is to create a better web app for Showcaseing student accomidation. Open Data Bristol's database for student accomidation is composed of a map, in the map, there are highlighted by a yellow colour
 TODO: Replace the example text like this with text that describes your project. What is the problem to be addressed?
 
 ### Business benefits
